@@ -2,11 +2,10 @@
 
 ## Challenge Description:
 
-data.org, in partnership with a global financial servuces institution, Harvard OpenDP, and University of Javariana, has launched a Privacy Enhancing Technologies (PETs) for Public Health Challenge. Up to five winners will be awarded $50,000 each.
+data.org, in partnership with a global financial services institution, Harvard OpenDP, and University of Javariana, has launched a Privacy Enhancing Technologies (PETs) for Public Health Challenge. Up to five winners will be awarded $50,000 each.
 
 This pioneering competition invites academic innovators (Masters, PhDs, Postdocs, faculty, etc.) in differential privacy,  epidemiology, data science, and machine learning, etc. to create privacy solutions that will help unlock sensitive data for public health advancements and drive social impact.  
 
-Please register for the mandatory virtual Q&A and onboarding session by sending an email with “Registration” in the subject line to petschallenge@data.org .
 You can also find more information about the challenge, timing, and funding awards, etc. by visiting Privacy-Enhancing Technologies (PETs) for Public Health Challenge - https://data.org/initiatives/pets-challenge/
 
 
