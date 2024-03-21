@@ -227,7 +227,7 @@ def make_grouping_cols_score(candidates, min_bin_contributions):
         input_domain=dataframe_domain(),
         input_metric=dp.symmetric_distance(),
         output_domain=dp.vector_domain(dp.atom_domain(T=float)),
-        output_metric=dp.linf_distance(T=float),
+        output_metric=dp.linf_distance(T=float, monotonic=True),
         function=lambda x: [score(x, c) for c in candidates],
         stability_map=float,
     )
