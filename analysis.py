@@ -22,7 +22,7 @@ t_pre = (
 )
 d_pre = t_pre.map(1)
 
-pq_losses = [(1.0, 0.0), (2.0, 5e-7), (1.0, 1e-7)]
+pq_losses = [(0.4, 0.0), (2.0, 5e-7), (1.0, 1e-7)]
 
 m_global = t_pre >> dp.c.make_sequential_composition(
     input_domain=dataframe_domain(),
